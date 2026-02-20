@@ -143,14 +143,6 @@ The files which will be submitted:
 * `hw2.pcap.b64`: the Base64 encoded version of the pcap for Q11.
 
 
-- When you are ready to sumit your homework, push your solution back to the repository, submit on gradescope
-
-```sh
-git add . 
-git commit -m "<add your comment here>" 
-git push 
-```
-
 ## GPL Notice
 Trace files 1 and 2 are covered by the
 [GNU GPL](http://www.gnu.org/licenses/gpl.html) and were downloaded from [The Wireshark Wiki](http://wiki.wireshark.org/SampleCaptures).
